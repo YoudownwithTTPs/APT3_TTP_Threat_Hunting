@@ -9,6 +9,6 @@ Download the VM here: https://drive.google.com/open?id=1M3MbY_jkf8_17B32nxCTqpQ5
 
 Follow through the workbook and verify your answers
 
-If you have any questions, you can reach me @YoudownwithTTps on twitter
+If you have any questions, you can reach me on twitter here: https://twitter.com/youdownwithttps
 
 Happy Hunting :)
