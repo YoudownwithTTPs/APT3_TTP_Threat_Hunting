@@ -1,5 +1,5 @@
 # APT3_TTP_Threat_Hunting
-A TTP based threat hunting challenge/training for those either on the red or blue team looking to learn what evidence is left by their TTPs or how to use knowledge of attacker TTPs to create hunts or detection analytics. 
+A TTP based threat hunting challenge/training for those either on the red team looking to learn what evidence is left by their TTPs or on the blue team looking to gain knowledge of attacker TTPs to create hunts or detection analytics. 
 
 This work was inspired by the recent DEFCON 27 PHV workshop found here: https://github.com/RESOLVN/RTHVM
 
